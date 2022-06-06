@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "chart-test-client-side-solution",
+    "id": "1d118f5b-f200-42c5-8ab7-45e7ec728cba",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "chartTest description"
+      },
+      "longDescription": {
+        "default": "chartTest description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "chart-test Feature",
+        "description": "The feature that activates elements of the chart-test solution.",
+        "id": "a3ff0bd9-f2f9-44b4-bbe1-9270ea575cb6",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/chart-test.sppkg"
+  }
+}
