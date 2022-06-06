@@ -1,8 +1,8 @@
-# chart-test
+# Web Part SharePoint Chart Test
 
 ## Summary
 
-Component that takes data from a SharePoint list and graphs it. It has a drop-down menu to choose between two possible types of graphics (vertical and horizontal) and allows to add elements to the list.
+Web Part that takes data from a SharePoint list and graphs it. It has a drop-down menu to choose between two possible types of graphics (vertical and horizontal) and allows to add elements to the list.
 
 ## Technologies
 
